@@ -1,0 +1,11 @@
+body{
+    background-color: brown;
+    background-repeat: no-repeat;
+    background-size: contain;
+    
+}
+.intro{
+    border: 4px double blue;
+    margin: 15% 20% 0 5%;
+}
+   
